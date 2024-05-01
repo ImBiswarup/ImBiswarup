@@ -35,7 +35,7 @@ Here are some of the projects I've worked on:
    - Technologies used: || React JS || Tailwind CSS || fakestore api ||.
      
 2. **OpenMedia (Backend)**: Backend of a social media app . [GitHub Repo](https://github.com/ImBiswarup/openMedia---Backend)
-   - Technologies used: MongoDB || Express JS || Node JS || (React JS for Frontend) ||.
+   - Technologies used: || MongoDB || Express JS || Node JS || (React JS for Frontend) ||.
    - Brief description of your contribution.
 
 ## Get in Touch
