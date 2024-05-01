@@ -16,7 +16,7 @@ Hey there! I'm [@ImBiswarup](https://github.com/ImBiswarup), a passionate fullst
 - CSS3
 - JavaScript
 - React.js
-- 
+  
 ### Backend
 - Node.js
 - Express.js
