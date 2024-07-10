@@ -24,6 +24,7 @@ Hey there! I'm [@ImBiswarup](https://github.com/ImBiswarup), a passionate fullst
 - Express JS
 - MongoDB
 - RESTful APIs
+- Next JS
 
 ### Other
 - Git
