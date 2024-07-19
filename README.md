@@ -26,6 +26,10 @@ Hey there! I'm [@ImBiswarup](https://github.com/ImBiswarup), a passionate fullst
 - RESTful APIs
 - Next JS
 
+- ### Languages
+- C
+- Pyhthon
+
 ### Other
 - Git
 - GitHub
