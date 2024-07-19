@@ -28,7 +28,7 @@ Hey there! I'm [@ImBiswarup](https://github.com/ImBiswarup), a passionate fullst
 
 - ### Languages
 - C
-- Pyhthon
+- Python
 
 ### Other
 - Git
