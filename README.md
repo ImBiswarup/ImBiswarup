@@ -20,7 +20,6 @@ Hey there! I'm [@ImBiswarup](https://github.com/ImBiswarup), a passionate fullst
   
 ### Backend
 - Node JS
-- Next JS
 - Express JS
 - MongoDB
 - RESTful APIs
